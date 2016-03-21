@@ -38,3 +38,7 @@ Roman Numeral Converter
 Convert the given number into a roman numeral.
 All roman numerals answers should be provided in upper-case.
 
+Missing letters
+--------------------
+Find the missing letter in the passed letter range and return it.
+If all letters are present in the range, return undefined
