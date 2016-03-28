@@ -42,3 +42,8 @@ Missing letters
 --------------------
 Find the missing letter in the passed letter range and return it.
 If all letters are present in the range, return undefined
+
+Convert HTML Entities
+--------------------
+Convert the characters &, <, >, " (double quote), and ' (apostrophe), in a string to their corresponding HTML entities.
+
