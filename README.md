@@ -53,4 +53,9 @@ Return the sum of all odd Fibonacci numbers up to and including the passed numbe
 The first few numbers of the Fibonacci sequence are 1, 1, 2, 3, 5 and 8, and each subsequent number is the sum of the previous two numbers.
 As an example, passing 4 to the function should return 5 because all the odd Fibonacci numbers under 4 are 1, 1, and 3.
 
+Sum All Primes
+-------------------
+Sum all the prime numbers up to and including the provided number.
+A prime number is defined as having only two divisors, 1 and itself. For example, 2 is a prime number because it's only divisible by 1 and 2. 1 isn't a prime number, because it's only divisible by itself.
+The provided number may not be a prime.
 
