@@ -69,3 +69,8 @@ Write a function that takes two or more arrays and returns a new array of unique
 In other words, all values present from all arrays should be included in their original order, but with no duplicates in the final array. The unique numbers should be sorted by their original order, but the final array should not be sorted in numerical order.
 Check the assertion tests for examples.
 
+Drop it
+-------------------
+Drop the elements of an array (first argument), starting from the front, until the predicate (second argument) returns true.
+The second argument, func, is a function you'll use to test the first elements of the array to decide if you should drop it or not.
+Return the rest of the array, otherwise return an empty array.
